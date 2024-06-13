@@ -25,7 +25,7 @@ const addLetter = letter => {
     const letterElement = document.createElement('span');
     letterElement.innerHTML = letter.toUpperCase();
     usedLettersElement.appendChild(letterElement);
-    letterElement.addEventListener('click')
+    letterElement.addEventListener('click', addLetter); //esta es la linea que hago nueva
 }
 
 const addBodyPart = bodypart => {
