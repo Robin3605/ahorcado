@@ -1,0 +1,1 @@
+const words = ['caballo', 'soledad', 'primate', 'abandono','playa', 'dinero', 'musica', 'comida', 'futbol', 'estudiar', 'señal', 'pelicula', 'novios', 'viajar', 'disfrutar', 'dormir', 'insecto', 'hamburguesa', 'pollo', 'delfin', 'martillo', 'camaleon', 'marte', 'sol', 'oso', 'flor', 'oxigeno', 'cerveza', 'celular'];
