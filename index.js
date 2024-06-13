@@ -110,7 +110,7 @@ const startGame = () => {
     drawHangMan();
     selectRandomWord();
     drawWord();
-    document.addEventListener('keydown', letterEvent);
+    document.addEventListener('keypress', letterEvent);
 };
 
 startButton.addEventListener('click', startGame);
